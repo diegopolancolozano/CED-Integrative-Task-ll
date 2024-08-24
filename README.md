@@ -1,3 +1,6 @@
+Strategy game about resource management and roman conquest by using graphs!
+
+
 # CED-Integrative-Task-ll
 
 Integrantes:
